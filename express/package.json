@@ -11,5 +11,8 @@
     "tea"
   ],
   "author": "Amir Sohail",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
